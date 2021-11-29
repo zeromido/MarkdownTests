@@ -1,6 +1,7 @@
 ``
 Test
 ``
+*Italic*
 
 https://forum.vivaldi.net/topic/38561/windows-7-old-games-failing-to-run
 
